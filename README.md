@@ -11,4 +11,5 @@ This website is created to provide an online designation for potential applicant
 ## Technologies
 * HTML
 * CSS
+* Javascript
 * Bootstrap 5.3
